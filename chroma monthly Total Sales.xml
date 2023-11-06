@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6510</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="40" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Column ss:AutoFitWidth="0" ss:Width="110"/>
+   <Column ss:AutoFitWidth="0" ss:Width="185"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">date</Data></Cell>
+    <Cell><Data ss:Type="String">monthly_sales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2017-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">122407.57</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2017-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">162687.56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2017-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">245673.84</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-01-01</Data></Cell>
+    <Cell><Data ss:Type="Number">127574.73</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-02-01</Data></Cell>
+    <Cell><Data ss:Type="Number">144799.54</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-04-01</Data></Cell>
+    <Cell><Data ss:Type="Number">130643.92</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-05-01</Data></Cell>
+    <Cell><Data ss:Type="Number">139165.06</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-06-01</Data></Cell>
+    <Cell><Data ss:Type="Number">125735.36</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-08-01</Data></Cell>
+    <Cell><Data ss:Type="Number">125409.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">343337.14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">440562.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2018-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">653944.72</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-01-01</Data></Cell>
+    <Cell><Data ss:Type="Number">359025.06</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-02-01</Data></Cell>
+    <Cell><Data ss:Type="Number">356607.19</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-04-01</Data></Cell>
+    <Cell><Data ss:Type="Number">379549.74</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-05-01</Data></Cell>
+    <Cell><Data ss:Type="Number">340152.29</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-06-01</Data></Cell>
+    <Cell><Data ss:Type="Number">343792.08</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-08-01</Data></Cell>
+    <Cell><Data ss:Type="Number">338108.87</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">808250.42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1092622.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2019-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1488174.01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-01-01</Data></Cell>
+    <Cell><Data ss:Type="Number">812929.77</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-02-01</Data></Cell>
+    <Cell><Data ss:Type="Number">862762.82</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-04-01</Data></Cell>
+    <Cell><Data ss:Type="Number">130520.91</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-05-01</Data></Cell>
+    <Cell><Data ss:Type="Number">145049.07999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-06-01</Data></Cell>
+    <Cell><Data ss:Type="Number">362545.18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-08-01</Data></Cell>
+    <Cell><Data ss:Type="Number">799327.63</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2296919.58</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3109316.96</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2020-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4078790.04</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-01-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2303086.42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-02-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2355170.5499999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-04-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2253575.0099999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-05-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2181587.87</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-06-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2288587.4900000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-08-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2349478.81</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">11192823.18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">13908229.35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2021-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">19537146.579999998</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R40C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
